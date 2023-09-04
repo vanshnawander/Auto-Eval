@@ -1,2 +1,2 @@
 # Auto-Eval
-Automatic Evaluation System
+Automatic Answer Evaluation System
